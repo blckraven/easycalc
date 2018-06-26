@@ -1,6 +1,6 @@
 # easycalc
 
-Easy calc in Python / Prosty kalkulator w języku Pyhon
+Easy calculator in Python / Prosty kalkulator w języku Pyhon
 #
 Uses functions and conditional instructions / Używa funkcji i instrukcji warunkowych
 #
